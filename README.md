@@ -6,14 +6,11 @@
   </h3>
   <hr>
   <h2>My skills</h2>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
   <hr>
   <h2>Find me on</h2>
-  <a href="https://github.com/AntonJames-Sistence" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <br>
-  <a href="https://www.linkedin.com/in/anton-james-ja/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 </div>
+
+[LinkedIn](https://www.linkedin.com/in/anton-james-ja/)
+<br>
+[Wellfound](https://wellfound.com/u/anton-james)
