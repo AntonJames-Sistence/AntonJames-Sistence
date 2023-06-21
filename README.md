@@ -4,4 +4,7 @@
   <h2>My interests</h2>
   <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🎧 Music | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding
   </h3>
+  <hr>
+  <h2>My Skills</h2>
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=8" />
 </div>
