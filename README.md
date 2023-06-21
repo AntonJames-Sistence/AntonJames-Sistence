@@ -2,9 +2,18 @@
 
 <div align="center">
   <h2>My interests</h2>
-  <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🎧 Music | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding
+  <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🧳 Travel | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding
   </h3>
   <hr>
-  <h2>My Skills</h2>
+  <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=8" />
+  <hr>
+  <h2>Find me on</h2>
+  <a href="https://github.com/AntonJames-Sistence" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/anton-james-ja/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
