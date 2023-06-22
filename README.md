@@ -11,6 +11,7 @@
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
   <hr>
   <h2>My projects</h2>
+  <img src="./assets/torque_project_gif.gif">
   <hr>
   <h2>Find me on</h2>
 </div>
