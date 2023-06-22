@@ -6,19 +6,19 @@
   <h2>My interests</h2>
   <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🧳 Travel | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Coding
   </h3>
-  <hr>
+<!--   <hr> -->
   <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
-  <hr>
+<!--   <hr> -->
   <h2>My projects</h2>
+  <p><a href="https://excursionexplorer.onrender.com/">Itinerator</a> is a collaborative project aimed at enhancing people's travel experiences by providing meaningful leisure and exciting activity offers.</p>
+  <img src="./assets/itinerator_gif.gif">
+  <hr>
   <p><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> is an exhilarating racing game inspired by the fast-paced 80s arcade classics.</p>
   <img src="./assets/torque_gif.gif">
   <hr>
   <p><a href="https://steamer-9bo7.onrender.com/">Steamer</a> - an exciting online game store clone project, user-friendly platform designed to replicate the immersive experience of browsing and purchasing games.</p>
   <img src="./assets/steamer_gif.gif">
-  <hr>
-  <p><a href="https://excursionexplorer.onrender.com/">Itinerator</a> is a collaborative project aimed at enhancing people's travel experiences by providing meaningful leisure and exciting activity offers.</p>
-  <img src="./assets/itinerator_gif.gif">
   <hr>
   <h2>Find me on</h2>
 </div>
