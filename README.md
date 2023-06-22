@@ -12,8 +12,8 @@
   <hr>
   <h2>My projects</h2>
   <img src="./assets/torque_gif.gif">
-  <img src="./assets/steamer_gif.GIF">
-  <img src="./assets/itinerator_gif.GIF">
+  <img src="./assets/steamer_gif.gif">
+  <img src="./assets/itinerator_gif.gif">
   <hr>
   <h2>Find me on</h2>
 </div>
