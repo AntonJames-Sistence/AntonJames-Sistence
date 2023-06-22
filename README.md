@@ -17,3 +17,6 @@
 <a href="https://wellfound.com/u/anton-james">
   <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white">
 </a>
+<a href="mailto:anton.james.ja@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
