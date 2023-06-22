@@ -11,6 +11,9 @@
   <h2>Find me on</h2>
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/anton-james-ja/)
-<br>
-[Wellfound](https://wellfound.com/u/anton-james)
+<a href="https://www.linkedin.com/in/anton-james-ja/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://wellfound.com/u/anton-james">
+  <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white">
+</a>
