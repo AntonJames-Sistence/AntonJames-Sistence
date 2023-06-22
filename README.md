@@ -1,4 +1,6 @@
-<img src="https://github.com/AntonJames-Sistence/AntonJames-Sistence/assets/126339704/94ef490c-12d7-4f72-8147-34d8ff520b47">
+<img src="https://github.com/AntonJames-Sistence/AntonJames-Sistence/assets/126339704/6faee2bd-1113-43b3-b0f7-175ca5523c38">
+<br>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Anton, a passionate software engineer with a strong background in math and computer science. I thrive on peer-learning and continuous growth, and I'm excited to contribute my skills to your projects. Let's create something amazing together!</h3>
 
 <div align="center">
   <h2>My interests</h2>
@@ -8,15 +10,19 @@
   <h2>My skills</h2>
   <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
   <hr>
+  <h2>My projects</h2>
+  <hr>
   <h2>Find me on</h2>
 </div>
 
-<a href="https://www.linkedin.com/in/anton-james-ja/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://wellfound.com/u/anton-james">
-  <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white">
-</a>
-<a href="mailto:anton.james.ja@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/anton-james-ja/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://wellfound.com/u/anton-james">
+    <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white">
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="mailto:anton.james.ja@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> &nbsp;&nbsp;&nbsp;
+</div>
