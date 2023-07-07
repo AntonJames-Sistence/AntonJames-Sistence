@@ -1,6 +1,6 @@
 
 <a href="https://antonjames.dev/">
-  <img src="./assets/quality_banner.png">
+  <img src="./assets/quality_banner2.png">
 </a>
 <br>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Anton, a passionate software engineer with a strong background in math and computer science. I thrive on peer-learning and continuous growth, and I'm excited to contribute my skills to your projects. Let's create something amazing together!</h3>
