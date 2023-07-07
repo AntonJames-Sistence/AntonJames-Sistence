@@ -1,4 +1,7 @@
-<img src="assets/quality_banner.png">
+
+<a href="https://antonjames.dev/">
+  <img src="https://github.com/AntonJames-Sistence/AntonJames-Sistence/assets/126339704/6faee2bd-1113-43b3-b0f7-175ca5523c38">
+</a>
 <br>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Anton, a passionate software engineer with a strong background in math and computer science. I thrive on peer-learning and continuous growth, and I'm excited to contribute my skills to your projects. Let's create something amazing together!</h3>
 
@@ -29,17 +32,23 @@
   <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
   
   <hr>
-  <h2>Find me on</h2>
+  <h2>Contact me</h2>
 </div>
 
 <div align="center">
+  <a href="https://antonjames.dev/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/My-Portfolio-067326">
+  </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anton-james-ja/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linked-In-blue">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://wellfound.com/u/anton-james">
-    <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white"> -->
+    <img alt="Static Badge" src="https://img.shields.io/badge/Well-found-929608">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:anton.james.ja@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> -->
+    <img alt="Static Badge" src="https://img.shields.io/badge/e-Mail-8a150c">
   </a> &nbsp;&nbsp;&nbsp;
 </div>
