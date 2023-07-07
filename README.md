@@ -1,6 +1,6 @@
 
 <a href="https://antonjames.dev/">
-  <img src="https://github.com/AntonJames-Sistence/AntonJames-Sistence/assets/126339704/6faee2bd-1113-43b3-b0f7-175ca5523c38">
+  <img src="./assets/quality_banner.png">
 </a>
 <br>
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Anton, a passionate software engineer with a strong background in math and computer science. I thrive on peer-learning and continuous growth, and I'm excited to contribute my skills to your projects. Let's create something amazing together!</h3>
