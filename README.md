@@ -3,7 +3,7 @@
   <img src="./assets/banner.png">
 </a>
 <br>
-<h3> &nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Anton, a Front-end Software Engineer with a background in math and computer science. I thrive on peer-learning and continuous growth. Let's create something amazing together!</h3>
+<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Anton, a Front-end Software Engineer with a background in math and computer science. I thrive on peer-learning and continuous growth. Let's create something amazing together!</p>
 
 <div align="center">
   <h2>My interests</h2>
@@ -20,19 +20,19 @@
   <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
   
   <hr>
-  <p><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> is an exhilarating racing game inspired by the fast-paced 80s arcade classics.</p>
+  <p><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> is fast-paced racing game inspired by the  80s arcade classics.</p>
   <img src="./assets/torque.gif">
   <br>
   <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
   
   <hr>
-  <p><a href="https://steamer-9bo7.onrender.com/">Steamer</a> - an exciting online game store clone project, user-friendly platform designed to replicate the immersive experience of browsing and purchasing games.</p>
+  <p><a href="https://steamer-9bo7.onrender.com/">Steamer</a> is online game store project, user-friendly platform designed of browsing and purchasing games.</p>
   <img src="./assets/steamer.gif">
   <br>
   <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
   
   <hr>
-  <h2>Contact me</h2>
+  <h2>My contacts</h2>
 </div>
 
 <div align="center">
