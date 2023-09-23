@@ -1,9 +1,9 @@
 
 <a href="https://antonjames.dev/">
-  <img src="./assets/quality_banner2.png">
+  <img src="./assets/banner.png">
 </a>
 <br>
-<h3>&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Anton, a passionate software engineer with a strong background in math and computer science. I thrive on peer-learning and continuous growth, and I'm excited to contribute my skills to your projects. Let's create something amazing together!</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;Hi, I'm Anton, Front-end Software Engineer with a strong background in math and computer science. I thrive on peer-learning and continuous growth, and I'm excited to contribute my skills to your projects. Let's create something amazing together!</h3>
 
 <div align="center">
   <h2>My interests</h2>
