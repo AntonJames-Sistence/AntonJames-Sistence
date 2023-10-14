@@ -7,7 +7,7 @@
 
 <div align="center">
   <h2>My interests</h2>
-  <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🧳 Travel | <img src="./assets/coder_cat.gif" width="50"> Coding
+  <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🧳 Travel | <img src="./assets/coder_cat.gif" width="50" /> Coding
   </h3>
 <!--   <hr> -->
   <h2>My skills</h2>
