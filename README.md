@@ -3,7 +3,6 @@
   <img src="./assets/banner2.png">
 </a>
 <br>
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Anton, a Front-end Software Engineer with a background in math and computer science. I thrive on peer-learning and continuous growth. Let's create something amazing together!</p>
 
 <div align="center">
   <h2>My interests</h2>
