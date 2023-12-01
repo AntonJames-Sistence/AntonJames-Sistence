@@ -3,7 +3,9 @@
   <img src="./assets/banner2.png">
 </a>
 <br>
+
 <p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp; Seasoned Software Engineer. Skilled in technical proficiency, clear communication, and adept problem-solving, I approach every challenge with a focus on delivering tangible results.</p>
+
 
 <div align="center">
   <h2>My interests</h2>
