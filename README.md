@@ -3,36 +3,42 @@
   <img src="./assets/banner2.png">
 </a>
 <br>
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp; Hi, I'm Anton, a Front-end Software Engineer with a background in math and computer science. I thrive on peer-learning and continuous growth. Let's create something amazing together!</p>
+<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp; Seasoned Software Engineer. Skilled in technical proficiency, clear communication, and adept problem-solving, I approach every challenge with a focus on delivering tangible results.</p>
 
 <div align="center">
   <h2>My interests</h2>
-  <h3>⛸️ Ice skating | 📚 Psychology | 🎾 Tennis | 🧳 Travel | <img src="assets/coder_cat.gif" width="40"> Coding
+  <h3>⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling | <img src="./assets/coder_cat.gif" width="20"> Coding
   </h3>
 <!--   <hr> -->
-  <h2>My skills</h2>
-  <img src="https://skillicons.dev/icons?i=ruby,rails,js,react,redux,nodejs,webpack,css,html,jquery,mongodb,postgres,git,aws&perline=15" />
+  <h2>Skillset</h2>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,jquery,next,postgres,mongodb,git,express,aws&perline=10" />
 <!--   <hr> -->
-  <h2>My projects</h2>
-  <p><a href="https://excursionexplorer.onrender.com/">Itinerator</a> is a collaborative project aimed at enhancing people's travel experiences by providing meaningful leisure and exciting activity offers.</p>
+  <h2>Recent Projects</h2>
+  <p><a href="https://excursionexplorer.onrender.com/">Blue&Yellow</a> (Non-profit Donations Portal)</p>
+  <img src="./assets/blue&yellow_screenshot.png">
+  <br>
+  <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
+  
+  <hr>
+  <p><a href="https://excursionexplorer.onrender.com/">Itinerator</a> (Personalized Activity Recommender)</p>
   <img src="./assets/itinerator.gif">
   <br>
   <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
   
   <hr>
-  <p><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> is fast-paced racing game inspired by the  80s arcade classics.</p>
-  <img src="./assets/torque.gif">
-  <br>
-  <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
-  
-  <hr>
-  <p><a href="https://steamer-9bo7.onrender.com/">Steamer</a> is online game store project, user-friendly platform designed of browsing and purchasing games.</p>
+  <p><a href="https://steamer-9bo7.onrender.com/">Steamer</a> (Video Game Store)</p>
   <img src="./assets/steamer.gif">
   <br>
   <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
   
   <hr>
-  <h2>My contacts</h2>
+  <p><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> (Fast-paced Racing Game)</p>
+  <img src="./assets/torque.gif">
+  <br>
+  <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
+  
+  <hr>
+  <h2>Contacts</h2>
 </div>
 
 <div align="center">
