@@ -13,14 +13,20 @@
   </h2>
 <!--   <hr> -->
   <p style="font-size: 36px;">Skillset</p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,jquery,next,postgres,mongodb,git,express,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,docker,next,postgres,mongodb,git,express,aws&perline=10" />
   <hr>
   <p style="font-size: 36px;">Projects</p>
 
-  <p style="font-size: 20px;"><a href="https://excursionexplorer.onrender.com/">Blue&Yellow</a> (Non-profit Donations Portal)</p>
+  <p style="font-size: 20px;"><a href="https://antonjames.dev/">Portfolio</a></p>
+  <img src="./assets/portfolio_gif.gif">
+  <br>
+  <a style="font-size: 18px;" style="font-size: 18px;" href="https://antonjames.dev/">GitHub Repo</a>
+  <hr>
+
+  <p style="font-size: 20px;"><a href="https://blue-yellow-foundation.vercel.app/">Blue&Yellow</a> (Non-profit Donations Portal)</p>
   <img src="./assets/blueyellow_gif.gif">
   <br>
-  <a style="font-size: 18px;" style="font-size: 18px;" href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
+  <a style="font-size: 18px;" style="font-size: 18px;" href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a>
   <hr>
 
   <p style="font-size: 20px"><a href="https://excursionexplorer.onrender.com/">Itinerator</a> (Personalized Activity Recommender)</p>
@@ -36,7 +42,7 @@
   <hr>
 
   <p style="font-size: 20px;"><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> (Fast-paced Racing Game)</p>
-  <img src="./assets/torque.gif">
+  <img src="./assets/torque_gif.gif">
   <br>
   <a style="font-size: 18px;" href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
   <hr>
