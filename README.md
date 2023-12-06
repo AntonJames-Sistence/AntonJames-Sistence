@@ -4,43 +4,44 @@
 </a>
 <br>
 
-<p style="font-size: 18px;">&nbsp;&nbsp;&nbsp;&nbsp; Seasoned Software Engineer. Skilled in technical proficiency, clear communication, and adept problem-solving, I approach every challenge with a focus on delivering tangible results.</p>
+<p style="font-size: 18px;">Seasoned Software Engineer. Skilled in technical proficiency, clear communication, and adept problem-solving.<br/> I approach every challenge with a focus on delivering tangible results.</p>
 
 
 <div align="center">
-  <h2>My interests</h2>
-  <h3>⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling | <img src="./assets/coder_cat.gif" width="20"> Coding
-  </h3>
+  <p style="font-size: 36px;">My interests</p>
+  <h2 style="font-size: 20px;">⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling | <img src="./assets/coder_cat.gif" width="20"> Coding
+  </h2>
 <!--   <hr> -->
-  <h2>Skillset</h2>
+  <p style="font-size: 36px;">Skillset</p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,jquery,next,postgres,mongodb,git,express,aws&perline=10" />
-<!--   <hr> -->
-  <h2>Recent Projects</h2>
-  <p><a href="https://excursionexplorer.onrender.com/">Blue&Yellow</a> (Non-profit Donations Portal)</p>
-  <img src="./assets/blue&yellow_screenshot.png">
-  <br>
-  <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
-  
   <hr>
-  <p><a href="https://excursionexplorer.onrender.com/">Itinerator</a> (Personalized Activity Recommender)</p>
-  <img src="./assets/itinerator.gif">
+  <p style="font-size: 36px;">Projects</p>
+
+  <p style="font-size: 20px;"><a href="https://excursionexplorer.onrender.com/">Blue&Yellow</a> (Non-profit Donations Portal)</p>
+  <img src="./assets/blueyellow_gif.gif">
   <br>
-  <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
-  
+  <a style="font-size: 18px;" style="font-size: 18px;" href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
   <hr>
-  <p><a href="https://steamer-9bo7.onrender.com/">Steamer</a> (Video Game Store)</p>
-  <img src="./assets/steamer.gif">
+
+  <p style="font-size: 20px"><a href="https://excursionexplorer.onrender.com/">Itinerator</a> (Personalized Activity Recommender)</p>
+  <img src="./assets/itinerator_gif.gif">
   <br>
-  <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
-  
+  <a style="font-size: 18px;" href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
   <hr>
-  <p><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> (Fast-paced Racing Game)</p>
+
+  <p style="font-size: 20px;"><a href="https://steamer-9bo7.onrender.com/">Steamer</a> (Video Game Store)</p>
+  <img src="./assets/steamer_gif.gif">
+  <br>
+  <a style="font-size: 18px;" href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
+  <hr>
+
+  <p style="font-size: 20px;"><a href="https://antonjames-sistence.github.io/Torque/">Torque</a> (Fast-paced Racing Game)</p>
   <img src="./assets/torque.gif">
   <br>
-  <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
-  
+  <a style="font-size: 18px;" href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
   <hr>
-  <h2>Contacts</h2>
+
+  <h1>Contacts</h1>
 </div>
 
 <div align="center">
