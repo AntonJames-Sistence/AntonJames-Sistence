@@ -8,14 +8,14 @@
 
 
 <div align="center">
-  <p style="font-size: 36px;">My interests</p>
-  <h2 style="font-size: 20px;">⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling | <img src="./assets/coder_cat.gif" width="20"> Coding
-  </h2>
+  <h2 style="font-size: 36px;">My Hobbies</h2>
+  <h3 style="font-size: 20px;">⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling | 💻 Coding
+  </h3>
 <!--   <hr> -->
-  <p style="font-size: 36px;">Skillset</p>
+  <h2 style="font-size: 36px;">Skillset</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,docker,next,postgres,mongodb,git,express,aws&perline=10" />
   <hr>
-  <p style="font-size: 36px;">Projects</p>
+  <h2 style="font-size: 36px;">Noteworthy Deployments | Projects</h2>
 
   <p style="font-size: 20px;"><a href="https://antonjames.dev/">Portfolio</a></p>
   <img src="./assets/portfolio_gif.gif">
