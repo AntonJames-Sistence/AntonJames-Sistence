@@ -4,7 +4,8 @@
 </a>
 <br>
 
-<h3>Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: JavaScript/TypeScript || React || Next.js || Redux || Tailwind CSS || REST APIs</br>
+<h3>Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: 
+<div>JavaScript/TypeScript || React || Next.js || Redux || Tailwind CSS || REST APIs</div>
 I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a></h3>
 
 
