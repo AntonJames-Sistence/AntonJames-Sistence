@@ -26,19 +26,31 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
 
   <h3>Blue & Yellow</h3>
   <p>Donations Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a responsive design, SEO optimization, and integrates with Stripe for donations, Eventbrite for event management, and Facebook for news updates. The portal ensures secure administration login through OAuth 2 technology.</p>
-  <p><a href="https://blueyellowfoundation.org/">Live Link</a> | <a href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a></p>
+  <div>
+    <a href="https://blueyellowfoundation.org/">Live Link</a> | 
+    <a href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a>
+  </div>
+  </br>
   <img src="./assets/blueyellow_gif.gif">
   <hr>
 
-  <p style="font-size: 20px"><a href="https://excursionexplorer.onrender.com/">Itinerator</a> (Personalized Activity Recommender)</p>
+  <h3>Itinerator</h3>
+  <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable React components and employed modern styling techniques. I utilized Redux to optimize data flow, minimizing database calls for enhanced performance.</p>
+  <div>
+    <a href="https://excursionexplorer.onrender.com/">Live Link</a> |
+    <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
+  </div>
+  </br>
   <img src="./assets/itinerator_gif.gif">
-  <br>
-  <a style="font-size: 18px;" href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
   <hr>
     
   <h3>KoinY</h3>
   <p>Cryptocurrency Trading Platform built using Next.js for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with Tailwind CSS to enhance UX across devices and streamline development. Spearheaded the integration of a serverless PostgreSQL database with Neon, resulting in cost savings exceeding $20k. Additionally, established RESTful APIs following industry best practices.</p>
-  <p><a href="https://koiny.vercel.app/">Live Link</a> | <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a></p>
+  <div>
+    <a href="https://koiny.vercel.app/">Live Link</a> | 
+    <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
+  </div>
+  </br>
   <img src="./assets/koiny.png">
   <hr>
 
