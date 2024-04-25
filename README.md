@@ -9,25 +9,23 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
 
 
 <div align="center">
-  <h2 style="font-size: 36px;">My Hobbies</h2>
-  <h3 style="font-size: 20px;">💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling
-  </h3>
-<!--   <hr> -->
-  <h2 style="font-size: 36px;">Skillset</h2>
+  <h2>My Hobbies</h2>
+  <h3>💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling</h3>
+  <!-- <hr> -->
+  <h2>Skillset</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,docker,next,postgres,mongodb,git,express,aws&perline=10" />
   <hr>
-  <h2 style="font-size: 36px;">Noteworthy Deployments | Projects</h2>
+  <h2>Noteworthy Deployments</h2>
 
-  <p style="font-size: 20px;"><a href="https://antonjames.dev/">Portfolio</a></p>
+  <!-- <p style="font-size: 20px;"><a href="https://antonjames.dev/">Portfolio</a></p>
   <img src="./assets/portfolio_gif.gif">
   <br>
   <a style="font-size: 18px;" style="font-size: 18px;" href="https://antonjames.dev/">GitHub Repo</a>
-  <hr>
+  <hr> -->
 
-  <p style="font-size: 20px;"><a href="https://blue-yellow-foundation.vercel.app/">Blue&Yellow</a> (Non-profit Donations Portal)</p>
+  <h3>Blue&Yellow</h3>
+  <p><a href="https://blueyellowfoundation.org/">Live Link</a> | <a href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a></p>
   <img src="./assets/blueyellow_gif.gif">
-  <br>
-  <a style="font-size: 18px;" style="font-size: 18px;" href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a>
   <hr>
 
   <p style="font-size: 20px"><a href="https://excursionexplorer.onrender.com/">Itinerator</a> (Personalized Activity Recommender)</p>
