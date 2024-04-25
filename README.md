@@ -4,12 +4,13 @@
 </a>
 <br>
 
-<p style="font-size: 18px;">Seasoned Software Engineer. Skilled in technical proficiency, clear communication, and adept problem-solving.<br/> I approach every challenge with a focus on delivering tangible results.</p>
+<h3>Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: JavaScript/TypeScript || React || Next.js || Redux || Tailwind CSS || REST APIs</br>
+I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a></h3>
 
 
 <div align="center">
   <h2 style="font-size: 36px;">My Hobbies</h2>
-  <h3 style="font-size: 20px;">⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling | 💻 Coding
+  <h3 style="font-size: 20px;">💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling
   </h3>
 <!--   <hr> -->
   <h2 style="font-size: 36px;">Skillset</h2>
