@@ -12,7 +12,7 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
   <h2>My Hobbies</h2>
   <h3>💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling</h3>
   <!-- <hr> -->
-  <h2>Skillset</h2>
+  <h2>Skills</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,docker,next,postgres,mongodb,git,express,aws&perline=10" />
   <hr>
   <h2>Noteworthy Deployments</h2>
@@ -23,7 +23,8 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
   <a style="font-size: 18px;" style="font-size: 18px;" href="https://antonjames.dev/">GitHub Repo</a>
   <hr> -->
 
-  <h3>Blue&Yellow</h3>
+  <h3>Blue & Yellow</h3>
+  <p>Donations Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a responsive design, SEO optimization, and integrates with Stripe for donations, Eventbrite for event management, and Facebook for news updates. The portal ensures secure administration login through OAuth 2 technology.</p>
   <p><a href="https://blueyellowfoundation.org/">Live Link</a> | <a href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a></p>
   <img src="./assets/blueyellow_gif.gif">
   <hr>
@@ -32,6 +33,12 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
   <img src="./assets/itinerator_gif.gif">
   <br>
   <a style="font-size: 18px;" href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
+  <hr>
+    
+  <h3>KoinY</h3>
+  <p>Cryptocurrency Trading Platform built using Next.js for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with Tailwind CSS to enhance UX across devices and streamline development. Spearheaded the integration of a serverless PostgreSQL database with Neon, resulting in cost savings exceeding $20k. Additionally, established RESTful APIs following industry best practices.</p>
+  <p><a href="https://koiny.vercel.app/">Live Link</a> | <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a></p>
+  <img src="./assets/koiny.png">
   <hr>
 
   <p style="font-size: 20px;"><a href="https://steamer-9bo7.onrender.com/">Steamer</a> (Video Game Store)</p>
