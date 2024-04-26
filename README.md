@@ -5,13 +5,20 @@
 <br>
 
 <h3>Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: 
-<div>JavaScript/TypeScript || React || Next.js || Redux || Tailwind CSS || REST APIs</div>
-I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a></h3>
+<div>
+  <span style="color: lightcoral;">JavaScript/TypeScript</span> -|- 
+  <span style="color: lightcoral;">React</span> -|- 
+  <span style="color: lightcoral;">Next.js</span> -|- 
+  <span style="color: lightcoral;">Redux</span> -|- 
+  <span style="color: lightcoral;">Tailwind CSS</span> -|- 
+  <span style="color: lightcoral;">REST APIs</span>
+</div>
+I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a></h3>
 
 
 <div align="center">
   <h1>Hobbies</h1>
-  <h3>💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling</h3>
+  <h2>💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling</h2>
   <!-- <hr> -->
   <h1>Skills</h1>
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,docker,next,postgres,mongodb,git,express,aws&perline=10" />
@@ -24,8 +31,8 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
   <a style="font-size: 18px;" style="font-size: 18px;" href="https://antonjames.dev/">GitHub Repo</a>
   <hr> -->
 
-  <h2><span style="color: blue;">Blue</span> & <span style="color: yellow;">Yellow</span></h2>
-  <p>Donations Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a responsive design, SEO optimization, and integrates with Stripe for donations, Eventbrite for event management, and Facebook for news updates. The portal ensures secure administration login through OAuth 2 technology.</p>
+  <h2><span style="color: rgba(135, 180, 255, 1);">Blue & </span><span style="color: yellow;">Yellow</span></h2>
+  <p>Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <u>responsive design</u>, <u>SEO optimization</u>, and integrates with <u>Stripe</u> for donations, <u>Eventbrite</u> for event management, and <u>Facebook</u> for news updates. The portal ensures secure administration login through <u>OAuth 2</u> technology.</p>
   <div>
     <a href="https://blueyellowfoundation.org/">Live Link</a> | 
     <a href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a>
@@ -35,7 +42,7 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
   <hr>
 
   <h2>Itinerator</h2>
-  <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable React components and employed modern styling techniques. I utilized Redux to optimize data flow, minimizing database calls for enhanced performance.</p>
+  <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <u>React</u> components and employed modern styling techniques. I utilized <u>Redux</u> to optimize data flow, minimizing database calls for enhanced performance.</p>
   <div>
     <a href="https://excursionexplorer.onrender.com/">Live Link</a> |
     <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
@@ -45,7 +52,7 @@ I'm always eager to collaborate and lvl up my skills 😎. Feel free to <a href=
   <hr>
     
   <h2>KoinY</h2>
-  <p>Cryptocurrency Trading Platform built using Next.js for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with Tailwind CSS to enhance UX across devices and streamline development. Spearheaded the integration of a serverless PostgreSQL database with Neon, resulting in cost savings exceeding $20k. Additionally, established RESTful APIs following industry best practices.</p>
+  <p>Cryptocurrency Trading Platform built using <u>Next.js</u> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <u>Tailwind CSS</u> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <u>PostgreSQL</u> database with Neon, resulting in cost savings. Additionally, established <u>RESTful APIs</u> following industry best practices.</p>
   <div>
     <a href="https://koiny.vercel.app/">Live Link</a> | 
     <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
