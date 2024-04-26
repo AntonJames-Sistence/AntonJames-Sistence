@@ -4,16 +4,17 @@
 </a>
 <br>
 
-<h3>Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: 
-<div>
-  <span style="color: lightcoral;">JavaScript/TypeScript</span> -|- 
-  <span style="color: lightcoral;">React</span> -|- 
-  <span style="color: lightcoral;">Next.js</span> -|- 
-  <span style="color: lightcoral;">Redux</span> -|- 
-  <span style="color: lightcoral;">Tailwind CSS</span> -|- 
-  <span style="color: lightcoral;">REST APIs</span>
-</div>
-I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a></h3>
+<h3 align="center">Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: 
+  <div>
+    <span style="color: lightcoral;">JavaScript/TypeScript</span> -|- 
+    <span style="color: lightcoral;">React</span> -|- 
+    <span style="color: lightcoral;">Next.js</span> -|- 
+    <span style="color: lightcoral;">Redux</span> -|- 
+    <span style="color: lightcoral;">Tailwind CSS</span> -|- 
+    <span style="color: lightcoral;">REST APIs</span>
+  </div>
+  I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a>
+</h3>
 
 
 <div align="center">
@@ -25,20 +26,26 @@ I'm always happy to collaborate and challenge my skills 😎 Feel free to <a hre
   <hr>
   <h1>Noteworthy Deployments</h1>
 
-  <!-- <p style="font-size: 20px;"><a href="https://antonjames.dev/">Portfolio</a></p>
-  <img src="./assets/portfolio_gif.gif">
-  <br>
-  <a style="font-size: 18px;" style="font-size: 18px;" href="https://antonjames.dev/">GitHub Repo</a>
-  <hr> -->
-
   <h2><span style="color: rgba(135, 180, 255, 1);">Blue & </span><span style="color: yellow;">Yellow</span></h2>
   <p>Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <u>responsive design</u>, <u>SEO optimization</u>, and integrates with <u>Stripe</u> for donations, <u>Eventbrite</u> for event management, and <u>Facebook</u> for news updates. The portal ensures secure administration login through <u>OAuth 2</u> technology.</p>
   <div>
-    <a href="https://blueyellowfoundation.org/">Live Link</a> | 
-    <a href="https://github.com/AntonJames-Sistence/BlueYellowTeam">GitHub Repo</a>
+    <a href="https://blueyellowfoundation.org/">Live Link</a>
   </div>
   </br>
-  <img src="./assets/blueyellow_gif.gif">
+  <a href="https://blueyellowfoundation.org/">
+    <img src="./assets/blueyellow_gif.gif">
+  </a>
+  <hr>
+
+  <h2>Culture Bot</h2>
+  <p>CultureBot is the Slack app that designed to empower your team culture.  As a key contributor, I assisted in implementing one of its pivotal features, ensuring a dynamic and enriching experience for all users.</p>
+  <div>
+    <a href="https://getculturebot.com/">Live Link</a>
+  </div>
+  </br>
+  <a href="https://getculturebot.com/">
+    <img style="width: 70%;" src="./assets/culture_bot.png">
+  </a>
   <hr>
 
   <h2>Itinerator</h2>
@@ -58,7 +65,7 @@ I'm always happy to collaborate and challenge my skills 😎 Feel free to <a hre
     <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
   </div>
   </br>
-  <img src="./assets/koiny.png">
+  <img style="width: 70%;" src="./assets/koiny.png">
   <hr>
 
   <h2>Steamer</h2>
