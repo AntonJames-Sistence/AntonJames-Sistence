@@ -26,8 +26,8 @@
   <hr>
   <h1>Noteworthy Deployments</h1>
 
-  <h2><span style="color: rgba(135, 180, 255, 1);">Blue & </span><span style="color: yellow;">Yellow</span></h2>
-  <p>Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <u>responsive design</u>, <u>SEO optimization</u>, and integrates with <u>Stripe</u> for donations, <u>Eventbrite</u> for event management, and <u>Facebook</u> for news updates. The portal ensures secure administration login through <u>OAuth 2</u> technology.</p>
+  <h2>Blue & Yellow</h2>
+  <p>Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <b>responsive design</b>, <b>SEO optimization</b>, and integrates with <b>Stripe</b> for donations, <b>Eventbrite</b> for event management, and <b>Facebook</b> for news updates. The portal ensures secure administration login through <b>OAuth 2</b> technology.</p>
   <div>
     <a href="https://blueyellowfoundation.org/">Live Link</a>
   </div>
@@ -49,7 +49,7 @@
   <hr>
 
   <h2>Itinerator</h2>
-  <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <u>React</u> components and employed modern styling techniques. I utilized <u>Redux</u> to optimize data flow, minimizing database calls for enhanced performance.</p>
+  <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <b>React</b> components and employed modern styling techniques. I utilized <b>Redux</b> to optimize data flow, minimizing database calls for enhanced performance.</p>
   <div>
     <a href="https://excursionexplorer.onrender.com/">Live Link</a> ||
     <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
@@ -61,7 +61,7 @@
   <hr>
     
   <h2>KoinY</h2>
-  <p>Cryptocurrency Trading Platform built using <u>Next.js</u> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <u>Tailwind CSS</u> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <u>PostgreSQL</u> database with Neon, resulting in cost savings. Additionally, established <u>RESTful APIs</u> following industry best practices.</p>
+  <p>Cryptocurrency Trading Platform built using <b>Next.js</b> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <b>Tailwind CSS</b> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <b>PostgreSQL</b> database with Neon, resulting in cost savings. Additionally, established <b>RESTful APIs</b> following industry best practices.</p>
   <div>
     <a href="https://koiny.vercel.app/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
@@ -73,7 +73,7 @@
   <hr>
 
   <h2>Steamer</h2>
-  <p>Developed from the ground up in just two weeks. In this project I employed <u>Ruby on Rails</u> for the backend, coupled with <u>React</u> and <u>Redux</u> for a seamless frontend experience, all supported by <u>PostgreSQL</u> as the database.</p>
+  <p>Developed from the ground up in just two weeks. In this project I employed <b>Ruby on Rails</b> for the backend, coupled with <b>React</b> and <b>Redux</b> for a seamless frontend experience, all supported by <b>PostgreSQL</b> as the database.</p>
   <div>
     <a href="https://steamer-9bo7.onrender.com/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
@@ -85,13 +85,13 @@
   <hr>
 
   <h2>Torque</h2>
-  <p>Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <u>Vanilla JavaScript</u>. The vibrant and dynamic animations were realized through <u>Canvas API</u> and the application of <u>Object-Oriented Programming</u> (OOP) principles.</p>
+  <p>Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <b>Vanilla JavaScript</b>. The vibrant and dynamic animations were realized through <b>Canvas API</b> and the application of <b>Object-Oriented Programming</b> (OOP) principles.</p>
   <div>
     <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
   </div>
   </br>
-  <a href="https://steamer-9bo7.onrender.com/">
+  <a href="https://antonjames-sistence.github.io/Torque/">
     <img src="./assets/torque_gif.gif">
   </a>
   <hr>
