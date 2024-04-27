@@ -38,7 +38,7 @@
   <hr>
 
   <h2>Culture Bot</h2>
-  <p>CultureBot is the Slack app that designed to empower your team culture.  As a key contributor, I assisted in implementing one of its pivotal features, ensuring a dynamic and enriching experience for all users.</p>
+  <p>CultureBot is the Slack app that designed to empower your team culture. I assisted in implementing one of its pivotal features, ensuring a dynamic and enriching experience for all users.</p>
   <div>
     <a href="https://getculturebot.com/">Live Link</a>
   </div>
@@ -69,7 +69,7 @@
   <hr>
 
   <h2>Steamer</h2>
-  <p>Developed from the ground up in just two weeks. In this project I employed Ruby on Rails for the backend, coupled with React and Redux for a seamless frontend experience, all supported by PostgreSQL as the database.</p>
+  <p>Developed from the ground up in just two weeks. In this project I employed <u>Ruby on Rails</u> for the backend, coupled with <u>React</u> and <u>Redux</u> for a seamless frontend experience, all supported by <u>PostgreSQL</u> as the database.</p>
   <div>
     <a href="https://steamer-9bo7.onrender.com/">Live Link</a> | 
     <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
@@ -79,7 +79,7 @@
   <hr>
 
   <h2>Torque</h2>
-  <p>Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing Vanilla JavaScript. The vibrant and dynamic animations were realized through Canvas API and the application of Object-Oriented Programming (OOP) principles.</p>
+  <p>Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <u>Vanilla JavaScript</u>. The vibrant and dynamic animations were realized through <u>Canvas API</u> and the application of <u>Object-Oriented Programming</u> (OOP) principles.</p>
   <div>
     <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a> | 
     <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
