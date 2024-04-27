@@ -51,41 +51,49 @@
   <h2>Itinerator</h2>
   <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <u>React</u> components and employed modern styling techniques. I utilized <u>Redux</u> to optimize data flow, minimizing database calls for enhanced performance.</p>
   <div>
-    <a href="https://excursionexplorer.onrender.com/">Live Link</a> |
+    <a href="https://excursionexplorer.onrender.com/">Live Link</a> ||
     <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
   </div>
   </br>
-  <img src="./assets/itinerator_gif.gif">
+  <a href="https://excursionexplorer.onrender.com/">
+    <img src="./assets/itinerator_gif.gif">
+  </a>
   <hr>
     
   <h2>KoinY</h2>
   <p>Cryptocurrency Trading Platform built using <u>Next.js</u> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <u>Tailwind CSS</u> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <u>PostgreSQL</u> database with Neon, resulting in cost savings. Additionally, established <u>RESTful APIs</u> following industry best practices.</p>
   <div>
-    <a href="https://koiny.vercel.app/">Live Link</a> | 
+    <a href="https://koiny.vercel.app/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
   </div>
   </br>
-  <img style="width: 70%;" src="./assets/koiny.png">
+  <a href="https://koiny.vercel.app/">
+    <img style="width: 70%;" src="./assets/koiny.png">
+  </a>
   <hr>
 
   <h2>Steamer</h2>
   <p>Developed from the ground up in just two weeks. In this project I employed <u>Ruby on Rails</u> for the backend, coupled with <u>React</u> and <u>Redux</u> for a seamless frontend experience, all supported by <u>PostgreSQL</u> as the database.</p>
   <div>
-    <a href="https://steamer-9bo7.onrender.com/">Live Link</a> | 
+    <a href="https://steamer-9bo7.onrender.com/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
   </div>
   </br>
-  <img src="./assets/steamer_gif.gif">
+  <a href="https://steamer-9bo7.onrender.com/">
+    <img src="./assets/steamer_gif.gif">
+  </a>
   <hr>
 
   <h2>Torque</h2>
   <p>Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <u>Vanilla JavaScript</u>. The vibrant and dynamic animations were realized through <u>Canvas API</u> and the application of <u>Object-Oriented Programming</u> (OOP) principles.</p>
   <div>
-    <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a> | 
+    <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
   </div>
   </br>
-  <img src="./assets/torque_gif.gif">
+  <a href="https://steamer-9bo7.onrender.com/">
+    <img src="./assets/torque_gif.gif">
+  </a>
   <hr>
 
   <h1>Contacts</h1>
