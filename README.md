@@ -4,16 +4,18 @@
 </a>
 <br>
 
-<h3 align="center">Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: 
-  <div>
-    <span style="color: lightcoral;">JavaScript/TypeScript</span> -|- 
-    <span style="color: lightcoral;">React</span> -|- 
-    <span style="color: lightcoral;">Next.js</span> -|- 
-    <span style="color: lightcoral;">Redux</span> -|- 
-    <span style="color: lightcoral;">Tailwind CSS</span> -|- 
-    <span style="color: lightcoral;">REST APIs</span>
+<h3 align="left">Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes: 
+  <div align="center">
+    <hr>
+    <span><b>JavaScript</b></span> <-> 
+    <span><b>React</b></span> <-> 
+    <span><b>Next.js</b></span> <-> 
+    <span><b>Redux</b></span> <-> 
+    <span><b>Tailwind CSS</b></span> <->
+    <span><b>REST APIs</b></span>
+    <hr>
   </div>
-  I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a>
+  <div align="right">I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a></div>
 </h3>
 
 
@@ -27,7 +29,7 @@
   <h1>Noteworthy Deployments</h1>
 
   <h2>Blue & Yellow</h2>
-  <p>Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <b>responsive design</b>, <b>SEO optimization</b>, and integrates with <b>Stripe</b> for donations, <b>Eventbrite</b> for event management, and <b>Facebook</b> for news updates. The portal ensures secure administration login through <b>OAuth 2</b> technology.</p>
+  <p align="left">Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <b>responsive design</b>, <b>SEO optimization</b>, and integrates with <b>Stripe</b> for donations, <b>Eventbrite</b> for event management, and <b>Facebook</b> for news updates. The portal ensures secure administration login through <b>OAuth 2</b> technology.</p>
   <div>
     <a href="https://blueyellowfoundation.org/">Live Link</a>
   </div>
@@ -38,7 +40,7 @@
   <hr>
 
   <h2>Culture Bot</h2>
-  <p>CultureBot is the Slack app that designed to empower your team culture. I assisted in implementing one of its pivotal features, ensuring a dynamic and enriching experience for all users.</p>
+  <p align="left">CultureBot is the Slack app that designed to empower your team culture. I assisted in implementing one of its pivotal features, ensuring a dynamic and enriching experience for all users.</p>
   <div>
     <a href="https://getculturebot.com/">Live Link</a>
   </div>
@@ -49,7 +51,7 @@
   <hr>
 
   <h2>Itinerator</h2>
-  <p>An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <b>React</b> components and employed modern styling techniques. I utilized <b>Redux</b> to optimize data flow, minimizing database calls for enhanced performance.</p>
+  <p align="left">An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <b>React</b> components and employed modern styling techniques. I utilized <b>Redux</b> to optimize data flow, minimizing database calls for enhanced performance.</p>
   <div>
     <a href="https://excursionexplorer.onrender.com/">Live Link</a> ||
     <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
@@ -61,7 +63,7 @@
   <hr>
     
   <h2>KoinY</h2>
-  <p>Cryptocurrency Trading Platform built using <b>Next.js</b> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <b>Tailwind CSS</b> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <b>PostgreSQL</b> database with Neon, resulting in cost savings. Additionally, established <b>RESTful APIs</b> following industry best practices.</p>
+  <p align="left">Cryptocurrency Trading Platform built using <b>Next.js</b> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <b>Tailwind CSS</b> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <b>PostgreSQL</b> database with Neon, resulting in cost savings. Additionally, established <b>RESTful APIs</b> following industry best practices.</p>
   <div>
     <a href="https://koiny.vercel.app/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
@@ -73,7 +75,7 @@
   <hr>
 
   <h2>Steamer</h2>
-  <p>Developed from the ground up in just two weeks. In this project I employed <b>Ruby on Rails</b> for the backend, coupled with <b>React</b> and <b>Redux</b> for a seamless frontend experience, all supported by <b>PostgreSQL</b> as the database.</p>
+  <p align="left">Developed from the ground up in just two weeks. In this project I employed <b>Ruby on Rails</b> for the backend, coupled with <b>React</b> and <b>Redux</b> for a seamless frontend experience, all supported by <b>PostgreSQL</b> as the database.</p>
   <div>
     <a href="https://steamer-9bo7.onrender.com/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
@@ -85,7 +87,7 @@
   <hr>
 
   <h2>Torque</h2>
-  <p>Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <b>Vanilla JavaScript</b>. The vibrant and dynamic animations were realized through <b>Canvas API</b> and the application of <b>Object-Oriented Programming</b> (OOP) principles.</p>
+  <p align="left">Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <b>Vanilla JavaScript</b>. The vibrant and dynamic animations were realized through <b>Canvas API</b> and the application of <b>Object-Oriented Programming</b> (OOP) principles.</p>
   <div>
     <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a> || 
     <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
