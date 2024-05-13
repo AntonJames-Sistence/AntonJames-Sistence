@@ -5,11 +5,11 @@
 <br>
 
 <h3 align="left">Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes:
-<b>JavaScript</b> -> 
-<b>React</b> -> 
-<b>Next.js</b> -> 
-<b>Redux</b> -> 
-<b>Tailwind CSS</b> ->
+<b>JavaScript</b> | 
+<b>React</b> | 
+<b>Next.js</b> | 
+<b>Redux</b> | 
+<b>Tailwind CSS</b> |
 <b>Node.js.</b>
 I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a>
 </h3>
