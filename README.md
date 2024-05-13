@@ -10,7 +10,7 @@
 <b>Next.js</b> -> 
 <b>Redux</b> -> 
 <b>Tailwind CSS</b> ->
-<b>REST APIs.</b>
+<b>Node.js.</b>
 I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a>
 </h3>
 
@@ -66,7 +66,7 @@ I'm always happy to collaborate and challenge my skills 😎 Feel free to <a hre
   </div>
   </br>
   <a href="https://koiny.vercel.app/">
-    <img style="width: 70%;" src="./assets/koiny.png">
+    <img src="./assets/koiny.png">
   </a>
   <hr>
 
@@ -78,7 +78,7 @@ I'm always happy to collaborate and challenge my skills 😎 Feel free to <a hre
   </div>
   </br>
   <a href="https://steamer-9bo7.onrender.com/">
-    <img src="./assets/steamer_gif.gif">
+    <img src="./assets/steamer_screenshot.png">
   </a>
   <hr>
 
