@@ -5,12 +5,12 @@
 <br>
 
 <h3 align="left">Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes:
-<b>JavaScript</b> | 
+<b>JavaScript/TypeScript</b> | 
 <b>React</b> | 
-<b>Next.js</b> | 
+<b>Next</b> | 
 <b>Redux</b> | 
 <b>Tailwind CSS</b> |
-<b>Node.js.</b>
+<b>PostgreSQL.</b>
 I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a>
 </h3>
 
@@ -58,14 +58,13 @@ I'm always happy to collaborate and challenge my skills 😎 Feel free to <a hre
   </a>
   <hr>
     
-  <h2>KoinY</h2>
-  <p align="left">Cryptocurrency Trading Platform built using <b>Next.js</b> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <b>Tailwind CSS</b> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <b>PostgreSQL</b> database with Neon, resulting in cost savings. Additionally, established <b>RESTful APIs</b> following industry best practices.</p>
+  <h2>Inves Pulse</h2>
+  <p align="left">Stock Market Monitoring Platform built using <b>Next.js</b> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <b>Tailwind CSS</b> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <b>PostgreSQL</b> database with Neon, resulting in cost savings. Additionally, established <b>RESTful APIs</b> following industry best practices.</p>
   <div>
-    <a href="https://koiny.vercel.app/">Live Link</a> || 
-    <a href="https://github.com/AntonJames-Sistence/KoinY">GitHub Repo</a>
+    <a href="https://investpulse.vercel.app/">Live Link</a>
   </div>
   </br>
-  <a href="https://koiny.vercel.app/">
+  <a href="https://investpulse.vercel.app/">
     <img src="./assets/koiny.png">
   </a>
   <hr>
