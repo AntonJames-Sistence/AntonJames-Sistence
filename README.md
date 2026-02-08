@@ -1,99 +1,95 @@
-
 <a href="https://antonjames.dev/">
-  <img src="./assets/banner2.png">
+  <img src="./assets/banner.png">
 </a>
 <br>
 
-<h3 align="left">Hey there! I'm Anton, a passioned Software Engineer. My go-to stack includes:
-<b>JavaScript/TypeScript</b> | 
-<b>React</b> | 
-<b>Next</b> | 
-<b>Redux</b> | 
-<b>Tailwind CSS</b> |
-<b>PostgreSQL.</b>
-I'm always happy to collaborate and challenge my skills 😎 Feel free to <a href="https://antonjames.dev/#contact">reach out</a> or explore my <a href="https://antonjames.dev/">portfolio</a>
+<h3 align="left">
+Senior Software Engineer focused on building scalable, high-performance web applications.
+<br/><br/>
+I specialize in the React ecosystem, with hands-on experience designing and delivering complex UI systems using
+<b>TypeScript</b>, <b>React</b>, <b>MUI</b>, and <b>Next.js</b>. I enjoy working on real-time, data-heavy products and turning complex requirements into maintainable, production-ready solutions.
+<br/><br/>
+Always open to collaboration and interesting technical challenges. Feel free to
+<a href="https://antonjames.dev/#contact">reach out</a>
+or explore my
+<a href="https://antonjames.dev/">portfolio</a>.
 </h3>
 
-
 <div align="center">
-  <h1>Hobbies</h1>
-  <h2>💻 Coding | ⛸️ Ice skating | 📚 Psychology | 🥾 Hiking | 🧳 Travelling</h2>
-  <!-- <hr> -->
-  <h1>Skills</h1>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,ruby,rails,python,go,nodejs,webpack,html,css,tailwind,docker,next,postgres,mongodb,git,express,aws&perline=10" />
+  <h3 style="font-size: 24px;">Core Expertise</h3>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,next,mui,redux,html,css&perline=8" />
+  <h3 style="font-size: 24px;">Additional Experience</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mongodb,aws,docker,gitlab,github,vite,redux,tailwind,jest,rtl,framer&perline=11" />
   <hr>
-  <h1>Noteworthy Deployments</h1>
 
-  <h2>Blue & Yellow</h2>
-  <p align="left">Website crafted for the Blue & Yellow Foundation aims to raise funds to aid people in Ukraine. It features a <b>responsive design</b>, <b>SEO optimization</b>, and integrates with <b>Stripe</b> for donations, <b>Eventbrite</b> for event management, and <b>Facebook</b> for news updates. The portal ensures secure administration login through <b>OAuth 2</b> technology.</p>
+  <h3 style="font-size: 28px;">Projects</h3>
+
+  <h2>Multiple Cybersecurity Platforms</h2>
+  <p align="left">Architected a scalable cybersecurity threat analytics platform using React, TypeScript, Next.js, GraphQL, and MUI, led a zero-downtime migration of 900+ components, built an 81-component internal UI library adopted by 4 teams, engineered a multi-layer theming system, contributed performance improvements to open-source visualization libraries, and optimized the public Next.js application to increase unique user traffic by 19%.</p>
+ 
+  <a href="https://blueyellowfoundation.org/">
+    <img src="./assets/cb.png">
+  </a>
+
+  <h2>Blue & Yellow (Online Donation & Fundraising Platform)</h2>
+  <p align="left">Led the development and deployment of a full-stack platform using JavaScript, React, Next.js, Tailwind CSS, and PostgreSQL, designing API endpoints for full CRUD functionality, optimizing data storage and retrieval to reduce load times and external API costs, implementing SSR to cut page load from 4.11s to 2.13s and boost SEO, and building a fully responsive, accessible UI across devices.</p>
   <div>
     <a href="https://blueyellowfoundation.org/">Live Link</a>
   </div>
   </br>
   <a href="https://blueyellowfoundation.org/">
-    <img src="./assets/blueyellow_gif.gif">
+    <img src="./assets/bl.jpg">
   </a>
-  <hr>
 
-  <h2>Culture Bot</h2>
-  <p align="left">CultureBot is the Slack app that designed to empower your team culture. I assisted in implementing one of its pivotal features, ensuring a dynamic and enriching experience for all users.</p>
-  <div>
-    <a href="https://getculturebot.com/">Live Link</a>
-  </div>
-  </br>
-  <a href="https://getculturebot.com/">
-    <img style="width: 70%;" src="./assets/culture_bot.png">
-  </a>
-  <hr>
-
-  <h2>Itinerator</h2>
-  <p align="left">An interactive website designed to elevate individuals' experiences by providing meaningful leisure and activity options. As a front-end lead, I developed reusable <b>React</b> components and employed modern styling techniques. I utilized <b>Redux</b> to optimize data flow, minimizing database calls for enhanced performance.</p>
-  <div>
-    <a href="https://excursionexplorer.onrender.com/">Live Link</a> ||
-    <a href="https://github.com/dtannyc1/itinerator">GitHub Repo</a>
-  </div>
-  </br>
-  <a href="https://excursionexplorer.onrender.com/">
-    <img src="./assets/itinerator_gif.gif">
-  </a>
-  <hr>
-    
-  <h2>Inves Pulse</h2>
-  <p align="left">Stock Market Monitoring Platform built using <b>Next.js</b> for efficient front-end rendering, offering server-side rendering and SEO advantages. Incorporated responsive design with <b>Tailwind CSS</b> to enhance UX across devices and streamline development. Spearheaded the integration of a serverless <b>PostgreSQL</b> database with Neon, resulting in cost savings. Additionally, established <b>RESTful APIs</b> following industry best practices.</p>
+  <h2>Invest Pulse (Stock Market Analytics Platform)</h2>
+  <p align="left">Designed a token-based design system unifying Tailwind CSS and MUI to reduce styling inconsistencies and accelerate feature development, integrated OpenAI APIs to deliver AI-driven insights, implemented interactive real-time financial charts with the TradingView API, and deployed the application on Vercel with environment-based CI/CD workflows to support future scaling and SaaS readiness.</p>
   <div>
     <a href="https://investpulse.vercel.app/">Live Link</a>
   </div>
   </br>
   <a href="https://investpulse.vercel.app/">
-    <img src="./assets/koiny.png">
+    <img src="./assets/ip.webp">
   </a>
-  <hr>
 
-  <h2>Steamer</h2>
-  <p align="left">Developed from the ground up in just two weeks. In this project I employed <b>Ruby on Rails</b> for the backend, coupled with <b>React</b> and <b>Redux</b> for a seamless frontend experience, all supported by <b>PostgreSQL</b> as the database.</p>
+  <h2>Culture Bot (AI-driven Conversational Platform)</h2>
+  <p align="left">Integrated an AI conversational layer using Python and the OpenAI API to deliver contextual responses and enhance employee engagement, while automating content extraction and preprocessing with BeautifulSoup to ensure consistent data delivery to the application layer.</p>
   <div>
-    <a href="https://steamer-9bo7.onrender.com/">Live Link</a> || 
-    <a href="https://github.com/AntonJames-Sistence/Steamer">GitHub Repo</a>
+    <a href="https://getculturebot.com/">Live Link</a>
   </div>
   </br>
-  <a href="https://steamer-9bo7.onrender.com/">
-    <img src="./assets/steamer_screenshot.png">
+  <a href="https://getculturebot.com/">
+    <img src="./assets/culture_bot.png">
   </a>
-  <hr>
 
-  <h2>Torque</h2>
-  <p align="left">Recreating fast-paced 80s arcade classics, I achieved smooth and challenging gameplay by crafting physics and logic entirely from scratch, employing <b>Vanilla JavaScript</b>. The vibrant and dynamic animations were realized through <b>Canvas API</b> and the application of <b>Object-Oriented Programming</b> (OOP) principles.</p>
+  <h2>Itinerator (Personalized Activity Recommender)</h2>
+  <p align="left">Built an interactive web application with React, implementing React Router for client-side navigation, employing Redux to centralize state management and reduce unnecessary re-renders, and collaborating with backend engineers to optimize data retrieval from MongoDB and Web Services in an Agile environment.</p>
   <div>
-    <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a> || 
-    <a href="https://github.com/AntonJames-Sistence/Torque">GitHub Repo</a>
+    <a href="https://excursionexplorer.onrender.com/">Live Link</a>
+  </div>
+  </br>
+  <a href="https://excursionexplorer.onrender.com/">
+    <img src="./assets/it.jpg">
+  </a>
+
+  <h2>Torque (Fast-paced Racing Game)</h2>
+  <p align="left">Developed a fast-paced arcade game using vanilla JavaScript, implementing custom game physics and challenging gameplay, leveraging the Canvas API for smooth visual effects, and applying OOP principles to enhance code efficiency and reduce development time over 10+ hours.</p>
+  <div>
+    <a href="https://antonjames-sistence.github.io/Torque/">Live Link</a>
   </div>
   </br>
   <a href="https://antonjames-sistence.github.io/Torque/">
     <img src="./assets/torque_gif.gif">
   </a>
+  </br>
+  </br>
+  </br>
+   <h2 style="font-size: 24px;">Outside of work</h2>
+  <h3>
+  ⛸️ Ice skating · 📚 Reading · 🍲 Cooking · 🎨 Painting
+  </h3>
   <hr>
 
-  <h1>Contacts</h1>
+  <h2 style="font-size: 24px;">Contacts</h2>
 </div>
 
 <div align="center">
@@ -102,9 +98,6 @@ I'm always happy to collaborate and challenge my skills 😎 Feel free to <a hre
   </a> &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/anton-james-ja/">
     <img alt="Static Badge" src="https://img.shields.io/badge/Linked-In-blue?style=for-the-badge">
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://wellfound.com/u/anton-james">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Well-found-929608?style=for-the-badge">
   </a> &nbsp;&nbsp;&nbsp;
   <a href="mailto:anton.james.ja@gmail.com">
     <img alt="Static Badge" src="https://img.shields.io/badge/e-Mail-8a150c?style=for-the-badge">
